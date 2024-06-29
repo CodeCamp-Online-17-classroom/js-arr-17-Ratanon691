@@ -6,3 +6,4 @@
 console.log(isArray([1, 2, 3])); // true
 console.log(isArray("Hello")); // false
 ```
+Rattanon Tunwittaya
